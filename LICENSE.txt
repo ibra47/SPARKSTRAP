@@ -1,0 +1,17 @@
+Custom License
+
+This software is provided under the following terms:
+
+1. You are free to use, modify, and distribute this software for personal, non-commercial use.
+
+2. For commercial use, including but not limited to selling, licensing, or otherwise monetizing the software, you must obtain explicit written permission from the copyright holder (hereinafter referred to as "Licensor").
+
+3. Any distribution of this software must include this license document and must retain the original copyright notice provided by the Licensor.
+
+4. Any modifications made to this software must be clearly documented and attributed to the original copyright holder.
+
+5. This software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the Licensor or contributors be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+By using this software, you agree to be bound by these terms and conditions.
+
+For questions about these terms or to request commercial use permission, please contact the Licensor at [your contact information].
